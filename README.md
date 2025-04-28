@@ -1,4 +1,4 @@
-# PHP-CRUD-with-MySQL
+# BASIC PHP-CRUD-with-MySQL
 
 **PHP-CRUD-with-MySQL** is a simple web-based To-Do List application that allows users to add and remove tasks. It utilizes PHP to handle form submissions and MySQL for storing tasks in a database. The project demonstrates basic CRUD (Create, Read, Update, Delete) functionality, along with file handling in PHP.
 
