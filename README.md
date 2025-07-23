@@ -1,7 +1,3 @@
-Here’s a polished and more professional version of your README while preserving clarity and friendliness. I've improved flow, clarity, consistency, and formatting while reducing redundancy:
-
----
-
 # 📋 BASIC PHP CRUD with MySQL
 
 **PHP CRUD with MySQL** is a simple web-based To-Do List application developed using PHP. It allows users to add and remove tasks, demonstrating fundamental **CRUD** operations (Create, Read, Update, Delete). The project supports both **text file handling** and **MySQL database** storage for flexibility in learning or deployment.
@@ -100,7 +96,3 @@ Here’s a polished and more professional version of your README while preservin
 
 * The database connection is optional; the app defaults to file-based storage.
 * Ideal for beginners learning PHP basics, form handling, and CRUD logic.
-
----
-
-Let me know if you'd like this as a downloadable `README.md` file or need help converting the project to full MySQL CRUD with update and delete features.
