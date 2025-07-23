@@ -96,3 +96,12 @@
 
 * The database connection is optional; the app defaults to file-based storage.
 * Ideal for beginners learning PHP basics, form handling, and CRUD logic.
+
+---
+
+## 👨‍💻 Author
+
+**Gyro Vinz L. Sagal**  
+Bachelor of Science in Information Technology
+
+---
