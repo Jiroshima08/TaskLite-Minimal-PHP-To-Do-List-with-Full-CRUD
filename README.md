@@ -1,4 +1,4 @@
-# 📋 BASIC PHP CRUD with MySQL
+# 📋 TaskLite – Minimal PHP To-Do List with Full CRUD
 
 **PHP CRUD with MySQL** is a simple web-based To-Do List application developed using PHP. It allows users to add and remove tasks, demonstrating fundamental **CRUD** operations (Create, Read, Update, Delete). The project supports both **text file handling** and **MySQL database** storage for flexibility in learning or deployment.
 
